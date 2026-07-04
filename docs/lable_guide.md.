@@ -1,0 +1,58 @@
+# Label guide for waste-text-classifier
+
+This guide explains when to use each category label for household waste text descriptions.
+
+## wet
+
+- Organic and food-related waste: cooked food, peels, leftovers, tea leaves, used tissues with food stains.
+- Typically compostable or suitable for wet/organic bin.
+
+Examples:
+- "Leftover cooked rice from dinner."
+- "Banana peels and vegetable scraps."
+
+## dry
+
+- Non-organic, non-recyclable dry waste: contaminated paper/cardboard, mixed-material packs, ceramics, dust.
+- Suitable for dry/non-recyclable bin.
+
+Examples:
+- "Greasy pizza box with cheese stuck."
+- "Empty chip packet and chocolate wrappers."
+- "Broken ceramic mug."
+
+## recyclable
+
+- Clean, single-material items that are commonly recycled: glass, metal cans, clean paper, clean cardboard, certain plastics.
+- Must be free from heavy food contamination or liquids.
+
+Examples:
+- "Clean glass jam jar."
+- "Flattened cardboard shipping box without food stains."
+- "Old newspaper bundle."
+
+## hazardous
+
+- Biomedical, chemical, or specially handled items: sanitary pads, diapers, medicines, syringes, CFLs.
+- Require special handling to avoid health risk or chemical release.
+
+Examples:
+- "Used sanitary pad."
+- "Expired medicine strip."
+- "Broken CFL bulb."
+
+## e-waste
+
+- Electronic devices and components: phones, chargers, batteries, earbuds, remote controls.
+- Should go to e-waste collection or manufacturer take-back programs.
+
+Examples:
+- "Old mobile phone battery."
+- "Broken phone charger."
+- "Wireless earbuds that stopped working."
+
+## Edge-case notes
+
+- **Greasy cardboard**: usually dry (non-recyclable) unless local rules allow composting.
+- **Mixed bags**: encourage segregation first; label based on dominant type with note in `notes` field.
+- **Batteries**: treated as e-waste, sometimes hazardous; capture nuance in `notes`.
