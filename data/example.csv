@@ -1,30 +1,30 @@
 item_name,description,category,disposal_guideline,source,notes
-banana peel,Leftover banana peel from breakfast.,wet,Put in wet/organic bin; can be composted.,synthetic,
-cooked rice,Leftover cooked rice from last night's dinner.,wet,Put in wet/organic bin; can be composted.,synthetic,
-vegetable scraps,Peels and cuttings from preparing vegetables.,wet,Put in wet/organic bin; can be composted.,synthetic,
-tea leaves,Used tea leaves from a kettle or mug.,wet,Put in wet/organic bin; can be composted.,synthetic,
-used tissue,Soiled paper tissue with food or drink stains.,wet,Put in wet/organic bin; not recyclable.,synthetic,
-bread slice,Stale bread slice not eaten.,wet,Put in wet/organic bin.,synthetic,
-plastic bottle,Empty PET water bottle.,recyclable,Rinse and put in recyclable/dry bin.,synthetic,
+banana peel,Leftover banana peel from breakfast.,wet,Put in wet organic bin; can be composted.,synthetic,
+cooked rice,Leftover cooked rice from last night's dinner.,wet,Put in wet organic bin; can be composted.,synthetic,
+vegetable scraps,Peels and cuttings from preparing vegetables.,wet,Put in wet organic bin; can be composted.,synthetic,
+tea leaves,Used tea leaves from a kettle or mug.,wet,Put in wet organic bin; can be composted.,synthetic,
+used tissue,Soiled paper tissue with food or drink stains.,wet,Put in wet organic bin; not recyclable.,synthetic,
+bread slice,Stale bread slice not eaten.,wet,Put in wet organic bin.,synthetic,
+plastic bottle,Empty PET water bottle.,recyclable,Rinse and put in recyclable bin.,synthetic,
 glass jar,Empty glass jar used for jam or pickles.,recyclable,Rinse and put in recyclable bin; remove lid if required.,synthetic,
 metal can,Empty aluminium or steel soft drink can.,recyclable,Rinse and put in recyclable bin.,synthetic,
-paper carton,Clean paper milk or juice carton.,recyclable,Drain completely, rinse lightly and put in recyclable bin.,synthetic,
+paper carton,Clean paper milk or juice carton.,recyclable,Drain completely rinse lightly and put in recyclable bin.,synthetic,
 newspaper,Old clean newspaper without food stains.,recyclable,Bundle and put in paper recycling bin.,synthetic,
 cardboard box,Clean cardboard delivery box.,recyclable,Flatten and put in recyclable bin.,synthetic,
-pizza box greasy,Cardboard pizza box with heavy oil and cheese stains.,dry,Put in dry/non-recyclable bin; usually not recyclable due to grease.,synthetic,edge-case: depends on contamination
-chip packet,Empty plastic and metalized chip packet.,dry,Put in dry/non-recyclable bin; not recyclable in most municipal systems.,synthetic,
-broken ceramic cup,Broken ceramic tea cup.,dry,Wrap carefully and put in dry/non-recyclable bin.,synthetic,handle with care
-dust from sweeping,Dust and small debris collected from sweeping floor.,dry,Put in dry/non-recyclable bin.,synthetic,
-broken glass,Broken transparent glass from a jar or glass.,dry,Wrap carefully and put in dry/non-recyclable bin.,synthetic,handle with care
-sanitary pad,Used sanitary pad.,hazardous,Wrap in paper/plastic and put in hazardous/non-recyclable bin.,synthetic,
-diaper,Used baby diaper.,hazardous,Wrap well and put in hazardous/non-recyclable bin.,synthetic,
-syringe,Used syringe without needle.,hazardous,Place in puncture-proof container and take to biomedical/hazardous waste collection.,synthetic,do not mix with regular bins
+pizza box greasy,Cardboard pizza box with heavy oil and cheese stains.,dry,Put in dry bin; usually not recyclable due to grease.,synthetic,edge case depends on contamination
+chip packet,Empty plastic and metalized chip packet.,dry,Put in dry bin; not recyclable in most municipal systems.,synthetic,
+broken ceramic cup,Broken ceramic tea cup.,dry,Wrap carefully and put in dry bin.,synthetic,handle with care
+dust from sweeping,Dust and small debris collected from sweeping floor.,dry,Put in dry bin.,synthetic,
+broken glass,Broken transparent glass from a jar or glass.,dry,Wrap carefully and put in dry bin.,synthetic,handle with care
+sanitary pad,Used sanitary pad.,hazardous,Wrap in paper or plastic and put in hazardous bin.,synthetic,
+diaper,Used baby diaper.,hazardous,Wrap well and put in hazardous bin.,synthetic,
+syringe,Used syringe without needle.,hazardous,Place in puncture proof container and take to biomedical waste collection.,synthetic,do not mix with regular bins
 cfl bulb,Broken or used CFL or fluorescent tube.,hazardous,Take to hazardous waste collection point; do not throw in regular bins.,synthetic,contains mercury
 medicine strip,Expired medicine tablets in blister strip.,hazardous,Return to pharmacy or put in hazardous waste as per local guideline.,synthetic,
-mobile phone battery,Lithium-ion mobile phone battery.,e-waste,Take to authorized e-waste collection; do not throw in bins.,synthetic,
-power bank,Old or non-working power bank.,e-waste,Take to e-waste collection centre or manufacturer take-back.,synthetic,
+mobile phone battery,Lithium ion mobile phone battery.,e-waste,Take to authorized e-waste collection; do not throw in bins.,synthetic,
+power bank,Old or non-working power bank.,e-waste,Take to e-waste collection centre or manufacturer take back.,synthetic,
 phone charger,Old or broken mobile phone charger.,e-waste,Take to e-waste drop-off or collection centre.,synthetic,
 earbuds electronic,Non-working wireless earbuds.,e-waste,Put in e-waste collection; do not put in dry bin.,synthetic,
 remote control,Old TV or AC remote that no longer works.,e-waste,Remove batteries separately and put device in e-waste collection.,synthetic,
-button cell battery,Small button cell battery from watch or toy.,e-waste,Store in a container and take to e-waste or hazardous battery recycling.,synthetic,
-mixed waste bag,A plastic bag with food waste mixed with plastic wrappers.,wet,Try to separate; otherwise treat as wet with contamination and put in appropriate bin per local rules.,synthetic,ambiguous: depends on segregation quality
+button cell battery,Small button cell battery from watch or toy.,e-waste,Store in a container and take to e-waste or battery recycling.,synthetic,
+mixed waste bag,A plastic bag with food waste mixed with plastic wrappers.,wet,Try to separate and put in the correct bin.,synthetic,ambiguous depends on segregation quality
