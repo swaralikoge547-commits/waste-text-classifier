@@ -23,3 +23,9 @@ Labels used: wet, dry, recyclable, hazardous, e-waste.
    print(df.head())
    print(df['category'].value_counts())
    ```
+## Baseline text classifier
+
+- Model: TF-IDF (1–2 grams) + LogisticRegression (scikit-learn).
+- Input: description field from `data/examples.csv`.
+- Output: category label (wet, dry, recyclable, hazardous, e-waste) and disposal guideline lookup.
+- Metrics: see `waste_text_classifier_week2.ipynb` for classification report and confusion matrix.
