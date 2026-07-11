@@ -38,3 +38,14 @@ Labels used: wet, dry, recyclable, hazardous, e-waste.
 - Moderate labels: recyclable
 - Weakest label: hazardous
 - Outcome: A working baseline waste text classifier with disposal guidance.
+## Project summary
+
+This project classifies household waste text into wet, dry, recyclable, hazardous, and e-waste categories. It also returns a disposal guideline for the predicted item.
+
+The project includes:
+- a defined schema,
+- a curated dataset,
+- validation checks,
+- a rule-based baseline,
+- a TF-IDF + Logistic Regression model,
+- and sample predictions.
