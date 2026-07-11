@@ -29,3 +29,12 @@ Labels used: wet, dry, recyclable, hazardous, e-waste.
 - Input: description field from `data/examples.csv`.
 - Output: category label (wet, dry, recyclable, hazardous, e-waste) and disposal guideline lookup.
 - Metrics: see `waste_text_classifier_week2.ipynb` for classification report and confusion matrix.
+## Results
+
+- Dataset size: 70+ examples
+- Labels: wet, dry, recyclable, hazardous, e-waste
+- Model: TF-IDF + Logistic Regression
+- Strong labels: wet, dry, e-waste
+- Moderate labels: recyclable
+- Weakest label: hazardous
+- Outcome: A working baseline waste text classifier with disposal guidance.
